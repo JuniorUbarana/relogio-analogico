@@ -97,3 +97,15 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+
+footer {
+    margin-top: 20px;
+    color: #ffff00;
+    font-size: 13px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffff00;
+    cursor: pointer;
+}
